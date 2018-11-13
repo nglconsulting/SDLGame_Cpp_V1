@@ -1,6 +1,6 @@
 #include <iostream>
-#include "CVect2D.h"
 #include "CGame.h"
+
 
 
 

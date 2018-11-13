@@ -122,12 +122,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CGame.cpp" />
+    <ClCompile Include="CSDLManager.cpp" />
     <ClCompile Include="CVect2D.cpp" />
     <ClCompile Include="game.cpp" />
     <ClCompile Include="GameObject.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CGame.h" />
+    <ClInclude Include="CSDLManager.h" />
     <ClInclude Include="CVect2D.h" />
     <ClInclude Include="GameObject.h" />
   </ItemGroup>

@@ -1,10 +1,8 @@
 #ifndef __GAME__
 #define __GAME__
 #pragma once
-
-#include<SDL.h>
-#include<SDL_image.h>
-#include <string>
+#include "CSDLManager.h"
+#include "GameObject.h"
 
 
 class CGame
@@ -13,25 +11,24 @@ public:
 	CGame();
 	~CGame();
 
-	int init(const char*, int, int, int, int, int);
 	
+	int init(const char * title, int xpos, int ypos, int height, int width, int flag);
 	void update();
 	void render();
 
 private:
 
 
-	SDL_Window *g_pWindow;
-	SDL_Renderer *g_pRenderer;
+	CSDLManager SDL;
+	CGameObject Obj;
+	
 
-	SDL_Texture *pTexture;
+	
 
-	int m_currentFrame;
+	
 
 
-	void draw(int x, int y, int width, int height, SDL_Renderer * pRenderer, SDL_RendererFlip flip = SDL_FLIP_NONE);
-	void drawFrame(int x, int y, int width, int height, int currentRow, int currentFrame, SDL_Renderer * pRenderer, SDL_RendererFlip flip = SDL_FLIP_NONE);
-	bool load(std::string fileName, SDL_Renderer * pRenderer);
+	
 	
 
 };
