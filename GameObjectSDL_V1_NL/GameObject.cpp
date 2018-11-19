@@ -20,7 +20,7 @@ void CGameObject::load(int x, int y, int width, int height)
     nWidth=width;
 	nHeight=height;
 
-	vect.setVectX((float)x);
-	vect.setVectY((float)y);
+	m_position.setVectX((float)x);
+	m_position.setVectY((float)y);
 
 }

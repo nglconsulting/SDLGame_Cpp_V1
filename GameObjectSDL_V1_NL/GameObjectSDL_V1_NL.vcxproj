@@ -126,12 +126,15 @@
     <ClCompile Include="CVect2D.cpp" />
     <ClCompile Include="game.cpp" />
     <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="InputHandler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CGame.h" />
     <ClInclude Include="CSDLManager.h" />
     <ClInclude Include="CVect2D.h" />
+    <ClInclude Include="DefineState.h" />
     <ClInclude Include="GameObject.h" />
+    <ClInclude Include="InputHandler.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

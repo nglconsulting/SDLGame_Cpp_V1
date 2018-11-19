@@ -106,10 +106,11 @@ float CVect2D::ProduitScalVect2D(CVect2D vect)
 
 void CVect2D::ProduitVectoriel(CVect2D vect)
 {
-	float fltTmpZ;
-	this->m_fltX = (this->m_fltY * 0) - (0 * vect.m_fltY);
-	this->m_fltY = (vect.m_fltX * 0) - (this->m_fltX * 0);
-	fltTmpZ = this->m_fltX * vect.m_fltY - this->m_fltY - vect.m_fltX;
+	
+
+	this->m_fltX = this->m_fltX*vect.m_fltX;
+	this->m_fltY = this->m_fltY*vect.m_fltY;
+
 		
 }
 

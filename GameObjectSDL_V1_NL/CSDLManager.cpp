@@ -127,14 +127,14 @@ int CSDLManager::init(const char * title, int xpos, int ypos, int height, int wi
 CSDLManager::~CSDLManager()
 {
 
-	assert(g_pRenderer != NULL);
-	SDL_DestroyRenderer(g_pRenderer);
+//	assert(g_pRenderer != NULL);
+	SDL_DestroyRenderer(this->getRenderer());
 
-	assert(g_pWindow != NULL);
-	SDL_DestroyWindow(g_pWindow);
+//	assert(g_pWindow != NULL);
+	SDL_DestroyWindow(this->getWindow());
 
-	assert(pTexture != NULL);
-	SDL_DestroyTexture(pTexture);
+//	assert(pTexture != NULL);
+	SDL_DestroyTexture(this->getTexture());
 }
 
 

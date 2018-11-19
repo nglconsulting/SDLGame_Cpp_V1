@@ -1,0 +1,90 @@
+﻿'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Users\Nicolas\Documents\Visual Studio 2017\Projects\GameObjectSDL_V1_NL\Debug\GameObjectSDL_V1_NL.exe'. Symbols loaded.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Users\Nicolas\Documents\Visual Studio 2017\Projects\GameObjectSDL_V1_NL\Debug\SDL2.dll'. Module was built without symbols.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\fltLib.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Users\Nicolas\Documents\Visual Studio 2017\Projects\GameObjectSDL_V1_NL\Debug\SDL2_image.dll'. Module was built without symbols.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+The thread 0x69f8 has exited with code 0 (0x0).
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\clbcatq.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\MMDevAPI.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\propsys.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\avrt.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dinput8.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\InputHost.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\hid.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\XInput1_4.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\d3d9.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_250db833a1cd577e\igdumdim32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_250db833a1cd577e\igd9dxva32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvgbi.inf_amd64_27a2020c55abd24d\nvdlist.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_250db833a1cd577e\igc32.dll'. Cannot find or open the PDB file.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Users\Nicolas\Documents\Visual Studio 2017\Projects\GameObjectSDL_V1_NL\Debug\libjpeg-9.dll'. Module was built without symbols.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Users\Nicolas\Documents\Visual Studio 2017\Projects\GameObjectSDL_V1_NL\Debug\libpng16-16.dll'. Module was built without symbols.
+'GameObjectSDL_V1_NL.exe' (Win32): Loaded 'C:\Users\Nicolas\Documents\Visual Studio 2017\Projects\GameObjectSDL_V1_NL\Debug\zlib1.dll'. Module was built without symbols.
+'GameObjectSDL_V1_NL.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvgbi.inf_amd64_27a2020c55abd24d\nvdlist.dll'
+The thread 0x5a10 has exited with code 0 (0x0).
+The thread 0x67b4 has exited with code -1073741510 (0xc000013a).
+The thread 0x6a44 has exited with code -1073741510 (0xc000013a).
+The thread 0x30a0 has exited with code -1073741510 (0xc000013a).
+The thread 0x6594 has exited with code -1073741510 (0xc000013a).
+The thread 0x3c3c has exited with code -1073741510 (0xc000013a).
+The thread 0x4a3c has exited with code -1073741510 (0xc000013a).
+The thread 0x684c has exited with code -1073741510 (0xc000013a).
+The thread 0x4564 has exited with code -1073741510 (0xc000013a).
+The thread 0x6864 has exited with code -1073741510 (0xc000013a).
+The thread 0x4f04 has exited with code -1073741510 (0xc000013a).
+The thread 0x68b8 has exited with code -1073741510 (0xc000013a).
+The thread 0x686c has exited with code -1073741510 (0xc000013a).
+The thread 0x360c has exited with code -1073741510 (0xc000013a).
+The program '[25908] GameObjectSDL_V1_NL.exe' has exited with code -1073741510 (0xc000013a).

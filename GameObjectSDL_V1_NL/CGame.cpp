@@ -1,6 +1,7 @@
 #include "CGame.h"
 
 
+
 CGame::CGame()
 {
 	//CSDLManager *SDL = new CSDLManager();
@@ -32,7 +33,7 @@ int CGame::init(const char * title, int xpos, int ypos, int height, int width, i
 void CGame::update()
 {
 
-	Obj.update();
+	Obj.update(&input);
 
 }
 
@@ -47,4 +48,35 @@ void CGame::render()
 	
 	SDL_RenderPresent(SDL.getRenderer());
 
+}
+
+void CGame::handleEvents()
+{
+	
+
+	if (input.getState()==gameState::quit) {
+		this->setRunning(false);
+	}
+
+	input.update();
+	//std::cout << input.getXY()->getVectX() << std::endl;;
+	
+	
+}
+
+void CGame::setRunning(bool run)
+{
+	m_bRunning = run;
+}
+
+void CGame::clean()
+{
+}
+
+void CGame::quit()
+{
+	
+		
+	IMG_Quit();
+	SDL_Quit();
 }
