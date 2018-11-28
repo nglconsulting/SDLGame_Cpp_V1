@@ -12,7 +12,7 @@ void CInputHandler::update()
 		case SDL_JOYAXISMOTION: break;
 		case SDL_JOYBUTTONDOWN: break;
 		case SDL_JOYBUTTONUP: break;
-		case SDL_MOUSEMOTION: break;
+		case SDL_MOUSEMOTION:onMouseMove(event); break;
 		case SDL_MOUSEBUTTONDOWN: break;
 		case SDL_MOUSEBUTTONUP: break;
 		case SDL_KEYDOWN: onKeyDown(event); break;
@@ -35,33 +35,16 @@ void CInputHandler::clean()
 
 
 
-/*bool InputHandler::isKeyDown()
+
+
+
+void CInputHandler::onMouseMove(SDL_Event & event)
 {
-	/*if (m_keystates != 0) {
-		if (m_keystates[key] == 1) {
-
-			return true;
-		}
-		else {
-
-			return false;
-		}
-	}
-	return false;
-
-
-	
-}*/
-
-
-/*void CInputHandler::onMouseMove(SDL_Event & event)
-{
-	//m_mousePosition->setVectX((float)event.motion.x);
-	
+	m_mousePosition.setVectX((float)event.motion.x);
 	//std::cout << m_mousePosition->getVectX() << std::endl;
-	//m_mousePosition->setVectY((float)event.motion.y);
+	m_mousePosition.setVectY((float)event.motion.y);
 	//std::cout << m_mousePosition->getVectY() << std::endl;
-}*/
+}
 
 
 void CInputHandler::onKeyDown(SDL_Event & event)

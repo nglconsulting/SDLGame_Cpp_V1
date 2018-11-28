@@ -27,20 +27,7 @@ CVect2D::CVect2D()
 
 }
 
-/*CVect2D::CVect2D(float fltX, float fltY) {
 
-	m_fltX = fltX;
-	m_fltY = fltY;
-
-
-}*/
-
-/*void CVect2D::initCVect2D(float fltX, float fltY)
-{
-	m_fltX = fltX;
-	m_fltY = fltY;
-}
-*/
 
 CVect2D::CVect2D(float fltX, float fltY):m_fltX(fltX),m_fltY(fltY)
 {

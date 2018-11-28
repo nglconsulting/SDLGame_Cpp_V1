@@ -4,7 +4,7 @@
 
 CGame::CGame()
 {
-	//CSDLManager *SDL = new CSDLManager();
+	
 }
 
 CGame::~CGame()
@@ -15,7 +15,7 @@ CGame::~CGame()
 
 int CGame::init(const char * title, int xpos, int ypos, int height, int width, int flag)
 {
-
+	
 
 	if (SDL.init(title, xpos, ypos, height, width, flag)) {
 		Obj.load(50, 50, 128, 55);
@@ -59,7 +59,8 @@ void CGame::handleEvents()
 	}
 
 	input.update();
-	//std::cout << input.getXY()->getVectX() << std::endl;;
+	
+
 	
 	
 }

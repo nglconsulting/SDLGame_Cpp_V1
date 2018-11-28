@@ -120,20 +120,19 @@ int CSDLManager::init(const char * title, int xpos, int ypos, int height, int wi
 	this->pTexture = load("assets/helicopter.png", g_pRenderer);
 	
 
-
 	return 1;
 }
 
 CSDLManager::~CSDLManager()
 {
 
-//	assert(g_pRenderer != NULL);
+	//TODO assert
 	SDL_DestroyRenderer(this->getRenderer());
 
-//	assert(g_pWindow != NULL);
+	
 	SDL_DestroyWindow(this->getWindow());
 
-//	assert(pTexture != NULL);
+	
 	SDL_DestroyTexture(this->getTexture());
 }
 

@@ -31,8 +31,6 @@ int main(int argc, char *argv[]) {
 	const char* sProgName="SDL Game";
 
 
-	//std::cout << "Sdl Game" << std::endl;
-
 	CGame myGame;
 	int frameStart=0, frameTime = 0;
 	
@@ -65,6 +63,8 @@ int main(int argc, char *argv[]) {
 		}
 
 	}
+
+	myGame.quit();
 
 
 	return 0;

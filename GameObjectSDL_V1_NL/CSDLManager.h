@@ -10,10 +10,7 @@
 class CSDLManager {
 
 
-		
-
 	public:
-
 
 		void draw(int x, int y, int width, int height, SDL_Renderer * pRenderer, SDL_RendererFlip flip = SDL_FLIP_NONE);
 		void drawFrame(int x, int y, int width, int height, int currentRow, int currentFrame, SDL_Renderer * pRenderer,SDL_Texture * pTexture, SDL_RendererFlip flip = SDL_FLIP_NONE);

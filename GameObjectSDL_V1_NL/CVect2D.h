@@ -19,9 +19,6 @@ public :
 	void setVectY(float fltY);
 
 
-
-	//void initCVect2D(float fltX, float fltY);
-
 	//constructeur sans et avec parametres
 	CVect2D();
 	CVect2D(float fltX, float fltY=0.0);
