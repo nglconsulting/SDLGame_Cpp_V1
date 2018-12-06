@@ -29,8 +29,6 @@ private:
 	CGameObject Obj;
 	CInputHandler input;
 
-	
-
 	bool m_bRunning;
 
 	

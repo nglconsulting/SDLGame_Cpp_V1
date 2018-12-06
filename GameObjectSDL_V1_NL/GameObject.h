@@ -19,8 +19,6 @@ private  :
 	CVect2D m_velocity;
 	CVect2D m_acceleration;
 
-
-
 	int nCurrentFrame;
 	int nCurrentRow;
 
@@ -59,7 +57,7 @@ public:
 	void load(int x, int y, int width, int height);
 
 
-	void handleInput(CInputHandler *input) {
+	inline void handleInput(CInputHandler *input) {
 
 		const int frameDelay = 30;
 		
